@@ -1,3 +1,5 @@
+//Jesus Armando Diaz Santoyo hecho a las 10/05/2025
+
 import javax.swing.JOptionPane;
 
 // Clase que contiene métodos matemáticos con manejo de excepciones y entrada/salida gráfica
