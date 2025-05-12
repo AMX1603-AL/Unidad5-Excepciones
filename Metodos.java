@@ -74,7 +74,7 @@ public class Metodos {
       // Manejo de error si ocurre división entre cero
       JO.showMessageDialog(
         null,
-        "No se puede dividir entre 0, Error de Java: " + e
+        "ERROR: No se puede dividir entre 0, Error de Java: " + e
       );
       Chicharronera();
     }
